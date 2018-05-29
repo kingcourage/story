@@ -2,7 +2,7 @@
 
 ``` stylus
 @Autowired
-    private DataSourceTransactionManager transactionManager;
+private DataSourceTransactionManager transactionManager;
 ```
 然后开启写自己的业务代码，提交事物
 
